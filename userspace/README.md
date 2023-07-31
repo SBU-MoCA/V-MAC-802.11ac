@@ -11,7 +11,7 @@ To run the code, simply run the binary:
 ```
 ./output [arg]
 ```
-
+#### note please do not forget to turn on radio and setup monitor interface by running `./monitor.sh` first.
 The [arg] can either be 'p' or 'c' (i.e. consumer or producer)
 
 ## Notes
