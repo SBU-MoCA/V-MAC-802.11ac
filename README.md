@@ -13,9 +13,11 @@ Please note this demo is demonstrating capabilities done on this platform that a
 
 For any technical questions/inquiries, please contact mohammed.0.elbadry@gmail.com
 
+For research collaboration and commercial usage, please contact fan.ye@stonybrook.edu
+
 ## License
 
-This system is released under cc by-nc-sa 4.0
+This system is released under cc by-nc-sa 4.0 [link] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## Reference
