@@ -17,7 +17,7 @@ For research collaboration and commercial usage, please contact fan.ye@stonybroo
 
 ## License
 
-This system is released under cc by-nc-sa 4.0 [link] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This system is released under cc by-nc-sa 4.0 [link](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## Reference
